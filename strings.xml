@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FreshBasket</string>
+    <string name="nav_shop">Market</string>
+    <string name="nav_cart">Basket</string>
+    <string name="nav_orders">Orders</string>
+    <string name="nav_store_setup">Store Setup</string>
+    <string name="hero_badge">Same-Day Local Delivery</string>
+    <string name="hero_title">Farm-fresh groceries,\nordered in seconds.</string>
+    <string name="hero_subtitle">Fill your basket and send your order directly to our WhatsApp counter.</string>
+    <string name="search_placeholder">Search avocados, milk, sourdough…</string>
+    <string name="filter_organic">Organic</string>
+    <string name="filter_deals">Today\'s Deals</string>
+    <string name="empty_search_title">No matching groceries</string>
+    <string name="empty_search_body">Try clearing your search or choosing another market aisle.</string>
+    <string name="empty_cart_title">Your basket is empty</string>
+    <string name="empty_cart_body">Browse fresh produce, artisanal bakery, and pantry essentials to start an order.</string>
+    <string name="empty_orders_title">No orders sent yet</string>
+    <string name="empty_orders_body">Orders you send to WhatsApp will appear here for quick reordering.</string>
+    <string name="send_whatsapp_cta">Send Order on WhatsApp</string>
+    <string name="copy_order_cta">Copy Order Text</string>
+    <string name="share_menu_cta">Share Store Menu</string>
+    <string name="test_whatsapp_cta">Test WhatsApp Link</string>
+    <string name="whatsapp_not_configured_banner">Add your receiving WhatsApp number in Store Setup before accepting live customer orders.</string>
+</resources>
